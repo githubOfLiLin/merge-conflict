@@ -1,4 +1,3 @@
 #
 master1 master1
-master2 master2
-master3 master3
+test1 test1
